@@ -2,7 +2,6 @@
 #include <string>
 using namespace std;
 
-//1439
 int main() {
     string s;
     int count = 0;
